@@ -10,7 +10,7 @@ class AirlineLookup
     private static array $map = [
         'HA-AAA' => 'Alpha Airlines',
         'HA-AAB' => 'Alpha Airlines',
-        'HA-AAC' => 'Alpha Airline',
+        'HA-AAC' => 'Alpha Airlines',
 
         'D-AAA' => 'Delta Freight',
         'D-AAB' => 'Delta Freight',
